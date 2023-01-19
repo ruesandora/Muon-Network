@@ -17,6 +17,13 @@
 ```
 git clone https://github.com/muon-protocol/muon-node-js.git --recurse-submodules --branch testnet
 ```
+
+* Eğer docker compose sunucunuzda bulunmuyorsa;
+
+```
+apt install docker-compose
+```
+
 * Kırmızı yazılar görürseniz sorun yok, çalışıyor.
 
 ```
