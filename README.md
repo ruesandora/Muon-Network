@@ -1,5 +1,10 @@
 # Muon network
 
+## Ödül:
+
+* Muon'nun kanarya chaininde (kusama gibi) node kurmak belirli sayıda token gerektiriyor (tüm PoS zincirlerinde ki gibi) bu katılanlara ücretsiz verilecek.
+
+
 ## Sistem gereksinimleri:
 ```
 2 CPU
