@@ -3,7 +3,8 @@
 ## Ödül:
 
 * Muon'nun kanarya chaininde (kusama gibi) node kurmak belirli sayıda token gerektiriyor (tüm PoS zincirlerinde ki gibi) bu katılanlara ücretsiz verilecek.
-
+* [Sohbet Kanalı](https://t.me/MuonNetworkTurkish)
+* [Muon DC](https://discord.gg/muon)
 
 ## Sistem gereksinimleri:
 ```
