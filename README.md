@@ -47,9 +47,9 @@ docker-compose up -d
 
 * [Buraya](https://alice.muon.net/join) girip cüzdanı bağlıyoruz.
 * [BSC Faucet](https://testnet.bnbchain.org/faucet-smart)'ten token alalım.
-* Cüzdanı bağlayın 1000 ALİCE mintleyin.
+* Cüzdanı bağlayın 1000 ALİCE mintleyin. 
 * Yukarıda ip adresiniz ile kontrol ettiğiniz sayfaya girin
 * `address` ve `peerId`'nizi alın. 
-* 1000 ALİCE'yi stakeleyin.
-* Buradan kontrol edin, `http://ipadresiniz:8000/v1/?app=tss&method=test`
+* Mint yaptığınız sitede Next Step deyin, approve yapın. Sonraki adımda address ve peerId girin. Metamask gas uyarısı verirse miktar kadar cüzdanda olduğundan emin olun "yine de devam et" deyin. 1000 ALİCE'yi stakeleyin. 
+* Bir kaç dakika sonra buradan kontrol edin, `http://ipadresiniz:8000/v1/?app=tss&method=test`
 * Bu sayfada `{"success":true,"result":{"confirmed":true, ... }}` yazıyorsa işlem tamam.
