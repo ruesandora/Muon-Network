@@ -30,10 +30,10 @@ curl -o docker-compose.yml https://raw.githubusercontent.com/muon-protocol/muon-
 ## ALICE V2 kurup başlatıyoruz
 
 ```
-docker compose pull
+docker-compose pull
 ```
 ```
-docker compose up -d
+docker-compose up -d
 ```
 ## Node'u başlatın:
 * Node çalıştığında DONE yazacaktır.
